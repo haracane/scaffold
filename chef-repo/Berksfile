@@ -1,4 +1,5 @@
 site :opscode
 
 cookbook "python"
+cookbook "yum"
 
